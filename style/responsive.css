@@ -3034,7 +3034,8 @@
   }
 
   .partners-text {
-    font-size: 50px;
+    width: 298px;
+    font-size: 40px;
     line-height: 60px;
     top: 20px;
     left: 20px;
